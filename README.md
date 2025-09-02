@@ -1,4 +1,4 @@
-# 👋 Olá, eu sou o Lucas Eduardo  
+# 👋 Olá, eu sou o Lucas 
 
 💻 **Desenvolvedor em formação** apaixonado por programação, tecnologia e construção de soluções criativas.  
 🚀 Atualmente focado em **back-end** e explorando constantemente novas ferramentas e boas práticas de desenvolvimento.  
@@ -7,11 +7,13 @@
 ---
 
 ## 🛠️ Tecnologias e Ferramentas  
-![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript)  
-![HTML5](https://img.shields.io/badge/HTML5-000?style=for-the-badge&logo=html5)  
-![CSS3](https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=css3&logoColor=264CE4)   
-![Git](https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git)  
-![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github)  
+<p>
+  <img src="https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript" />
+  <img src="https://img.shields.io/badge/HTML5-000?style=for-the-badge&logo=html5" />
+  <img src="https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=css3&logoColor=264CE4" />
+  <img src="https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git" />
+  <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github" />
+</p>
 
 ---
 
