@@ -2,14 +2,14 @@
 
 💻 **Desenvolvedor em formação** apaixonado por programação, tecnologia e construção de soluções criativas.  
 🚀 Atualmente focado em **back-end** e explorando constantemente novas ferramentas e boas práticas de desenvolvimento.  
-📚 Estudando **programação na Alura**, com projetos em **JavaScript, HTML, CSS**.  
+📚 Estudando **programação na Alura**, com projetos em **JavaScript, HTML, CSS**. 
 
 ---
 
 ## 🛠️ Tecnologias e Ferramentas  
 ![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript)  
 ![HTML5](https://img.shields.io/badge/HTML5-000?style=for-the-badge&logo=html5)  
-![CSS3](https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=css3&logoColor=264CE4)  
+![CSS3](https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=css3&logoColor=264CE4)   
 ![Git](https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git)  
 ![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github)  
 
@@ -29,5 +29,11 @@
 
 ---
 
+## 📊 Estatísticas do GitHub  
+![Lucas GitHub stats](https://github-readme-stats.vercel.app/api?username=Lucaslonguser&show_icons=true&theme=github_dark)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lucaslonguser&layout=compact&theme=github_dark)  
+
+---
+
 ## 🌍 Vamos nos conectar?  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0A66C2)]([https://www.linkedin.com/in/seu-usuario/](https://www.linkedin.com/in/lucas-eduardo-da-silva-20b543337))  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/Lucaslonguser/)  
