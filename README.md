@@ -31,11 +31,5 @@
 
 ---
 
-## 📊 Estatísticas do GitHub  
-![Lucas GitHub stats](https://github-readme-stats.vercel.app/api?username=Lucaslonguser&show_icons=true&theme=github_dark)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lucaslonguser&layout=compact&theme=github_dark)  
-
----
-
 ## 🌍 Vamos nos conectar?  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/Lucaslonguser/)  
