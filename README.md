@@ -1,8 +1,8 @@
 # 👋 Olá, eu sou o Lucas 
 
 💻 **Desenvolvedor em formação** apaixonado por programação, tecnologia e construção de soluções criativas.  
-🚀 Atualmente focado em **back-end** e explorando constantemente novas ferramentas e boas práticas de desenvolvimento.  
-📚 Estudando **programação na Alura**, com projetos em **JavaScript, HTML, CSS**. 
+🚀 Atualmente focado em **front-end** e explorando constantemente novas ferramentas e boas práticas de desenvolvimento.  
+📚 Estudando **programação na Alura e DevClub**, com projetos em **JavaScript, HTML, CSS**. 
 
 ---
 
